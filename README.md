@@ -1,5 +1,5 @@
 # 💫 About Me:
-https://github.com/johnrico364/moto-resq/invitations
+Hi! I'm a Computer Science student passionate about both backend and frontend web development. I enjoy building full-stack applications—from designing efficient APIs and databases to creating clean, user-friendly interfaces. I'm currently seeking opportunities where I can apply my skills, learn from real-world projects, and grow as a developer. Outside of coding, I enjoy playing basketball and spending time on online games.
 
 
 ## 🌐 Socials:
